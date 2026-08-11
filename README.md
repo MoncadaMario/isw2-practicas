@@ -8,8 +8,8 @@ Carrera: Ingeniería en Sistemas
 ## Índice
 
 - Práctica 1 - Tu repo del curso
-- Práctica 2
-- Práctica 3
+- Práctica 2 - 
+- Práctica 3 - Refactor SOLID
 - Práctica 4
 - Práctica 5
 - Práctica 6

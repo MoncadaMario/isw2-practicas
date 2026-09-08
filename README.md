@@ -13,6 +13,6 @@ Carrera: Ingeniería en Sistemas
 - Práctica 4
 - Práctica 5
 - Práctica 6
-- Práctica 7
+- Práctica 7 - Tu primer ADR
 - Práctica 8
 - Práctica 9

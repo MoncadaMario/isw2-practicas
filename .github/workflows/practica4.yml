@@ -1,0 +1,19 @@
+name: Práctica 4
+
+on:
+  push:
+    branches:
+      - feature/practica-4
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+
+      - run: node fiados.test.js
+        working-directory: practica-4
